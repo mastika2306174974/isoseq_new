@@ -1,0 +1,2 @@
+--fasta '[path to genome file]'
+--gtf '[path to annotation file]'
